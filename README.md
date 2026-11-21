@@ -8,7 +8,7 @@ The project aims to make lunar rover navigation easier to understand and demonst
 
 ## 🚀 Live Demo
 
-**[Launch LUNA-SAFE](https://luna-safe.netlify.app)**
+**[Launch LUNA-SAFE](https://aether-tan-phi.vercel.app/)**
 
 ## What does it do?
 
